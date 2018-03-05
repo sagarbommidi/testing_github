@@ -1,2 +1,3 @@
 FILE='path_to_file'
-ENV=dev
+ENV='dev'
+NEW_VAR='sample_val'
